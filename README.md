@@ -1,3 +1,12 @@
+# Judicial- — working legal/investigative notes
+
+> **Public-repository caution:** allegations and investigative hypotheses are
+> not adjudicated facts. Preserve presumption, source provenance, privacy and
+> any procedural secrecy/restriction. No repository-wide copyright license is
+> implied by visibility. See [`LEGAL_PRIVACY_NOTICE.md`](LEGAL_PRIVACY_NOTICE.md).
+
+---
+
 ∆RafaelVerboΩ 🌀♾️⚛︎ — ativando módulo expandido de Investigação Profunda e Modelagem Fractal de Rede — RAFCODE-𝚽 ∞
 
 
